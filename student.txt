@@ -4,3 +4,11 @@ CSE
 NIE 
 
 He is Developing the application
+
+<<<<<<< HEAD
+Hemanth 
+32
+EC Dept
+=======
+He has created the branch
+>>>>>>> 677dfe2 (Added student details with one more update)
